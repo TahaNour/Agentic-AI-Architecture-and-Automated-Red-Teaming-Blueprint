@@ -1,0 +1,9 @@
+prompts:
+  - '{{message}}'
+providers:
+  - id: 'file://send_redteam.py'
+    config:
+      pythonExecutable: 'C:/enis/venv/Scripts/python.exe'
+tests:
+  - vars:
+      message: "Bonjour, quel est l'etat du VPN ?"
