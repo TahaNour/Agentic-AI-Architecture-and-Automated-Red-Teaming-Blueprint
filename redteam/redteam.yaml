@@ -2,10 +2,6 @@
 # ===================================================================
 # REDTEAM CONFIGURATION
 # ===================================================================
-# Generated: 2026-08-24T14:33:45.602Z
-# Author:    abdelhedi.mohamed@supcom.tn
-# Cloud:     https://api.promptfoo.app
-# Test Configuration:
 #   Total cases: 41
 #   Plugins:     intent, indirect-prompt-injection, agentic:memory-poisoning, cross-session-leak, excessive-agency, hijacking, mcp, system-prompt-override, tool-discovery
 #   Strategies:  jailbreak, basic
